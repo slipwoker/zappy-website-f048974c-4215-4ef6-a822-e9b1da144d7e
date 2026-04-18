@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות תכשיטים בישראל שמביאה לך קולקציות מרהיבות של תכשיטים ואקססוריז. גלי עיצובים ייחודיים שמשלבים סגנון ואיכות בלתי מתפשרת. כנסי עכשיו וגלי את העולם של AL!
+
+### גלריה
+https://example.com/gallery
+גלרית התכשיטים של AL מציגה מבחר עשיר של תכשיטים ואקססוריז בעיצובים מרהיבים. כל פריט מספר סיפור ייחודי של אלגנטיות ויופי. דפדפי בקולקציות ומצאי את התכשיט שידבר אל ליבך!
+
+### אודות
+https://example.com/about
+AL היא חנות תכשיטים בישראל שנולדה מאהבה עמוקה לאמנות ועיצוב. אנחנו מאמינות שכל אישה ראויה לתכשיט שמשקף את אישיותה הייחודית. גלי את הערכים והחזון שמניעים אותנו ליצור תכשיטים שנשארים לנצח!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על תכשיט מיוחד או רוצה להזמין קולקציה? צוות AL בחנות התכשיטים שלנו בישראל כאן בשבילך! מלאי את הטופס ונחזור אלייך במהירות עם כל המידע שתצטרכי. אנחנו מחכות לשמוע ממך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - AL
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - AL
+
+### Category
+https://example.com/category/:slug
+מוצרים - AL
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
